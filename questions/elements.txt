@@ -70,7 +70,7 @@ Elements: what is the element for the symbol Ir?`iridium
 Elements: what is the element for the symbol Fe?`iron
 Elements: what is the element for the symbol Kr?`krypton
 Elements: what is the element for the symbol La?`lanthanum
-Elements: what is the element for the symbol Lr?`lawtencium
+Elements: what is the element for the symbol Lr?`lawrencium
 Elements: what is the element for the symbol Pb?`lead
 Elements: what is the element for the symbol Li?`lithium
 Elements: what is the element for the symbol Lu?`lutetium
